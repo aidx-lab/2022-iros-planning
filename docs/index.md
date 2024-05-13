@@ -3,9 +3,8 @@ layout: page
 title: 
 ---
 
-This site complements the paper \\
-[Speeding Up Optimization-based Motion Planning through Deep Learning](https://ieeexplore.ieee.org/document/9981717) \\
-by [Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Darius Burschka](https://scholar.google.com/citations?user=y-MzVoUAAAA), and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ).
+This site complements the paper [**Speeding Up Optimization-based Motion Planning through Deep Learning**](https://ieeexplore.ieee.org/document/9981717) 
+by [Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Darius Burschka](https://scholar.google.com/citations?user=y-MzVoUAAAA), and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the _2022 IEEE/RSJ International Conference on Intelligent Robots and Systems_ in Kyoto, Japan.
 
 Here we introduce the different robots we used for our work and provide additional information on the datasets.
 Furthermore, we describe our methods, the network architecture, and the training process in more detail.
