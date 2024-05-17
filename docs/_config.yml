@@ -5,7 +5,7 @@ title: |-
     Speeding Up Optimization-based Motion Planning 
     through Deep Learning
 
-author: johannes.tenhumberg@dlr.de
+author: johannes.tenhumberg@tum.de
 
 header_pages:
   - _pages/robots.md
@@ -16,14 +16,15 @@ header_pages:
   - _pages/results.md
   - _pages/dataset.md
   - _pages/gallery.md
-  - _pages/code.md
+  - _pages/lab.md
 
 include:
     - _pages
+
+plugins:
+  - jekyll-redirect-from
 
 exclude:
     - .gitignore
     - Gemfile
     - README.md
-
-
