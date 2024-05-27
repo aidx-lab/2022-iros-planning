@@ -25,8 +25,10 @@ Finally, we show a successful real-world experiment based on a high-resolution w
 ---
 <p align="center">
 <iframe width="560" height="315" 
-src="https://www.youtube.com/watch?v=fKe1_vUNCew"
+src="https://www.youtube.com/embed/fKe1_vUNCew?si=7sDCKk_Sdc84OaTV"
+frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen>
 </iframe>
 </p>
@@ -42,3 +44,7 @@ Cite this paper as:
 }
 ```
 [arxiv](https://arxiv.org/pdf/2311.08345)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKe1_vUNCew?si=7sDCKk_Sdc84OaTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
