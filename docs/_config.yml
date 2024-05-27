@@ -16,7 +16,7 @@ header_pages:
   - _pages/results.md
   - _pages/dataset.md
   - _pages/gallery.md
-  - _pages/laidx-lab.md
+  - _pages/aidx-lab.md
 
 include:
     - _pages
